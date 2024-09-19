@@ -1,5 +1,8 @@
-botbuilder-integration-aiohttp>=4.14.0
+# botbuilder-integration-aiohttp>=4.14.0
 cookiecutter==1.7.0
-aiohttp
+# aiohttp
 asyncio
 botbuilder-core
+
+botbuilder-core>=4.7.0
+aiohttp==3.10.3
