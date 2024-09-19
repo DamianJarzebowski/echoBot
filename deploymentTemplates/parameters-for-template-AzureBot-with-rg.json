@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "azureBotId": {
+        "value": "test-dasda1dasda123da21"
+      },
+      "azureBotSku": {
+        "value": "S1"
+      },
+      "azureBotRegion": {
+        "value": "global"
+      },
+      "botEndpoint": {
+        "value": "https://test-dasda1dasda123da21.azurewebsites.net/api/messages"
+      },
+      "appType": {
+        "value": "MultiTenant"
+      },
+      "appId": {
+        "value": "a47d7765-e5bc-4fd4-bd59-ea486533c057"
+      },
+      "UMSIName": {
+        "value": ""
+      },
+      "UMSIResourceGroupName": {
+        "value": ""
+      },
+      "tenantId": {
+        "value": ""
+      }
+    }
+  }
